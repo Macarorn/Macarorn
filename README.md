@@ -1,6 +1,7 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Macarron
 
-Soy un apasionado desarrollador de software con experiencia en diversas tecnologías web. Me encanta construir aplicaciones web y experimentar con nuevas tecnologías. ¡Bienvenido a mi perfil de GitHub!
+Soy una apasionada desarrolladora de software con experiencia en diversas tecnologías web. Me encanta construir aplicaciones web y experimentar con nuevas tecnologías. 
+¡Bienvenido a mi perfil de GitHub!
 
 ## Tecnologías
 
