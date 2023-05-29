@@ -1,11 +1,10 @@
-# ¡Hola! 👋 Soy Macarron
+# Hi there! 👋 I'm Macarron
 
-Soy una apasionada desarrolladora de software con experiencia en diversas tecnologías web. Me encanta construir aplicaciones web y experimentar con nuevas tecnologías. 
-¡Bienvenido a mi perfil de GitHub!
+I'm a passionate software developer with experience in various web technologies. I love building web applications and experimenting with new technologies. Welcome to my GitHub profile!
 
-## Tecnologías
+## Technologies
 
-Aquí hay un resumen de las tecnologías con las que trabajo:
+Here's a summary of the technologies I work with:
 
 - HTML
 - CSS
@@ -17,23 +16,22 @@ Aquí hay un resumen de las tecnologías con las que trabajo:
 - Mantine
 - Git
 
-## Proyectos Destacados
+## Featured Projects
 
-Aquí hay una lista de algunos de mis proyectos destacados:
+Here's a list of some of my featured projects:
 
-- [Proyecto 1](enlace-al-proyecto-1)
-- [Proyecto 2](enlace-al-proyecto-2)
-- [Proyecto 3](enlace-al-proyecto-3)
+- [Project 1](project-1-link)
+- [Project 2](project-2-link)
+- [Project 3](project-3-link)
 
-## Contacto
+## Contact
 
-Si deseas comunicarte conmigo o saber más sobre mis proyectos, puedes encontrarme en:
+If you'd like to get in touch with me or learn more about my projects, you can find me at:
 
-- Sitio web: [TuSitioWeb.com](http://www.tusitioweb.com)
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tuperfillinkedin)
-- Correo electrónico: [tucorreo@gmail.com](mailto:tucorreo@gmail.com)
+- Website: [YourWebsite.com](http://www.yourwebsite.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- Email: [youremail@gmail.com](mailto:youremail@gmail.com)
 
-¡No dudes en contactarme! Estoy abierto a oportunidades de colaboración y siempre estoy dispuesto a discutir ideas interesantes.
+Feel free to reach out! I'm open to collaboration opportunities and always willing to discuss interesting ideas.
 
-¡Gracias por visitar mi perfil de GitHub!
-
+Thanks for visiting my GitHub profile!
