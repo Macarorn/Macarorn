@@ -12,6 +12,7 @@ Here's a summary of the technologies I work with:
 - TypeScript
 - MongoDB
 - React
+- NextJs
 - Zustand
 - Mantine
 - Git
@@ -20,9 +21,7 @@ Here's a summary of the technologies I work with:
 
 Here's a list of some of my featured projects:
 
-- [Project 1](project-1-link)
-- [Project 2](project-2-link)
-- [Project 3](project-3-link)
+-
 
 ## Contact
 
