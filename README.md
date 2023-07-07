@@ -29,7 +29,7 @@ If you'd like to get in touch with me or learn more about my projects, you can f
 
 - Website: [YourWebsite.com](http://www.yourwebsite.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- Email: [youremail@gmail.com](mailto:youremail@gmail.com)
+- Email: [macarront001@gmail.com](mailto:macarront001@gmail.com)
 
 Feel free to reach out! I'm open to collaboration opportunities and always willing to discuss interesting ideas.
 
