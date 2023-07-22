@@ -27,10 +27,8 @@ Here's a list of some of my featured projects:
 
 If you'd like to get in touch with me or learn more about my projects, you can find me at:
 
-- Website: [YourWebsite.com](http://www.yourwebsite.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
+- Website: [My website is in progress](http://www.yourwebsite.com)
+- LinkedIn: [Mariana Cifuentes Zuñiga](https://www.linkedin.com/in/mariana-cifuentes-zúñiga-a748341a2)
 - Email: [macarront001@gmail.com](mailto:macarront001@gmail.com)
 
 Feel free to reach out! I'm open to collaboration opportunities and always willing to discuss interesting ideas.
-
-Thanks for visiting my GitHub profile!
