@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Macarron
+# Hi there! 👋 I'm Mariana
 
 I'm a passionate software developer with experience in various web technologies. I love building web applications and experimenting with new technologies. Welcome to my GitHub profile!
 
