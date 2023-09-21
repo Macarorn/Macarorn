@@ -96,10 +96,3 @@
   <img src="https://streak-stats.demolab.com?user=Macarorn&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Macarorn/Macarorn/output/snake.svg" alt="Snake animation" />
-
-###
